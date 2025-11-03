@@ -30,3 +30,13 @@ The goal of this assignment is to:
 
 ## 🗂 Project Structure
 
+First-Assignment-Saucedemo/
+│
+├── pom.xml # Maven configuration and dependencies
+├── src/
+│ ├── main/java/ # Page classes and utilities
+│ └── test/java/ # Test classes
+│
+├── test-output/ # TestNG output reports
+├── Screenshots/ # Captured screenshots for failed tests
+└── README.md # Project documentation
